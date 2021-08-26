@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(48, 54, 61);
+    text-align: center;
+    padding: 0 30%;
+}
+
+h1{
+    font-size: 4rem;
+    padding: 6% 8%;
+    color: #3EB489;
+    font-family: 'Press Start 2P', cursive;
+}
+h1 i{
+    color: maroon;
+}
+
+h3{
+    color: #3EB489;
+    padding: 8%;
+    font-family: 'Press Start 2P', cursive;
+}
+.box img{
+    width: 80%;
+}
+
+footer{
+    font-family: 'Salsa', cursive;
+    color: white;
+    margin: 10% 15%;
+}
